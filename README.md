@@ -1,1 +1,1 @@
-# Lab-9-Control-Panel
+# Lab-9-Control-Panels
